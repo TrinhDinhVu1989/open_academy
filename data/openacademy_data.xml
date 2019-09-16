@@ -10,7 +10,7 @@
         <field name="instructor" eval="True"/>
     </record>
 
-    <record id="partner_arya" model="open_academy_vietlai.partner">
+    <record id="partner_0arya" model="open_academy_vietlai.partner">
         <field name="name">Arya Stark</field>
     </record>
 
